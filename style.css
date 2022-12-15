@@ -189,7 +189,7 @@ figure {
     margin: 0 180px 0px 40px;
 }
 
-.project > a {
+.projects > a {
     display:inline-block;
     text-decoration:none;
     color: rgb(0, 0, 0); 
@@ -202,7 +202,7 @@ figure {
     padding-left: 0;
 }
 
-.project > a:hover {
+.projects > a:hover {
     color: rgb(10, 10, 10);
     background: var(--grey);
   }
@@ -219,9 +219,24 @@ figure {
     margin-right: 10px;
 }
 
+.logors {
+background-image: url(./assets/image/rs.png);
+background-position: center right;
+background-size: contain;
+background-repeat: no-repeat;
+display: block;
+width: 45px;
+height: 24px;
+margin-right: 10px;
+}
+
+.logo {
+display: inline-flex;
+}
+
 footer {
     margin: 0;
-    padding: 10px 0;
+    padding: 10px 0px;
     background-color: var(--grey);
     display: block;
 
