@@ -50,14 +50,14 @@ ul {
 }
 
 .column_contact {
-    margin-top: 67px;
+    margin-top: 77px;
 }
 
 .column_contact > ul > li > a {
     display:inline-block;
     text-decoration:none;
     color: rgb(0, 0, 0); 
-    margin-bottom: 20px;
+    margin-bottom: 19px;
     -webkit-transition: 0.5s; 
     -moz-transition: 0.5s;
     -o-transition: 0.5s;
@@ -76,7 +76,6 @@ ul {
 }
 
 
-
 .contact_image {
     background-position: center left;
     background-repeat: no-repeat;
@@ -85,7 +84,7 @@ ul {
     width: 20px;
     height: 20px;
     margin-right: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .image_telergam {
