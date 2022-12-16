@@ -50,14 +50,14 @@ ul {
 }
 
 .column_contact {
-    margin-top: 77px;
+    margin-top: 71px;
 }
 
 .column_contact > ul > li > a {
     display:inline-block;
     text-decoration:none;
     color: rgb(0, 0, 0); 
-    margin-bottom: 19px;
+    margin-bottom: 18px;
     -webkit-transition: 0.5s; 
     -moz-transition: 0.5s;
     -o-transition: 0.5s;
