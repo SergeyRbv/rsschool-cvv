@@ -50,7 +50,7 @@ ul {
 }
 
 .column_contact {
-    margin-top: 71px;
+    margin-top: 72px;
 }
 
 .column_contact > ul > li > a {
@@ -58,10 +58,10 @@ ul {
     text-decoration:none;
     color: rgb(0, 0, 0); 
     margin-bottom: 18px;
-    -webkit-transition: 0.5s; 
-    -moz-transition: 0.5s;
-    -o-transition: 0.5s;
-    transition: 0.5s;
+    -webkit-transition: 0.4s; 
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
     margin-left: 0;
     padding-left: 0;
 }
@@ -152,8 +152,7 @@ figure {
 
 .avatar {
     border-radius: 50%;
-    /* margin: 20 40 20 0; */
-    border: 5px solid var(--grey)
+    border: 8px solid var(--grey)
 }
 
 .nav {
